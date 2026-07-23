@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/logo.png" width="120"/>
+<img src="./assets/banner.png" width="120"/>
 
 # NGOConnect AI
 
